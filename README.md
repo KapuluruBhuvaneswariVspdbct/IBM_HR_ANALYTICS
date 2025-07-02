@@ -48,7 +48,7 @@ This project explores IBM's HR dataset to extract meaningful insights into emplo
 
 ## 🧑‍💻 Author
 **Bhuvaneswari Kapuluru**  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kapuluru-2892682bb/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kapuluru-2892682bb/)
 
 
 ---
